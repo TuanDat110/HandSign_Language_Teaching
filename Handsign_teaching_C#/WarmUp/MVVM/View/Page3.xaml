@@ -1,0 +1,311 @@
+﻿<UserControl x:Class="WarmUp.MVVM.View.Page3"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WarmUp.MVVM.View"
+             xmlns:viewmodel="clr-namespace:WarmUp.MVVM.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1100" >
+    <UserControl.DataContext>
+        <viewmodel:Alphabet_Page3/>
+    </UserControl.DataContext>
+    <Border Style="{StaticResource Page3_style}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal" Grid.Column="2" HorizontalAlignment="Right">
+                <Button Style="{StaticResource btn_style}"
+                        Height="50"
+                        Width="50"
+                        Command="{Binding DataContext.GotoView2, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                        Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\Nut_home.png"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" Margin="5,-15,0,0"
+                        HorizontalAlignment="Center">
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\\0.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="0"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\\1.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="1"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\\2.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="2"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\\3.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="3"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\GIAO_DIEN\trang 3\\4.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="4"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\5.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="5"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\6.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="6" Click="Button_Click_2"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\7.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="7"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\8.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="8"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\9.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="9"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\A.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="a" Click="Button_Click_3"
+                        ></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\aw.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="ă"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="0" Grid.RowSpan="4" Margin="40, 40, 0,0"
+                        VerticalAlignment="Center">
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\aa.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="â"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\B.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="b"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\C.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="c"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\D.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="d"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\đ.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="d"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\E.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="e"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\ee.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="ê" Click="Button_Click"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\g.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="g"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.RowSpan="4" Grid.Column="2" Grid.Row="0" Margin="-45, 40, 0, 0"
+                        VerticalAlignment="Center">
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\h.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="h"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\i.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="i"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\k.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="k"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\l.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="l"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\m.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="m"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\n.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="n"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\oo.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="o" Click="Button_Click_1"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\ô.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="ô"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="5, 15, 0, 0"
+                        HorizontalAlignment="Center">
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\ow.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="ơ"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\p.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="p"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\q.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="q"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\r.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="r"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\s.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="s"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\t.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="t"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\u.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="u"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\uw.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="ư"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\v.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="v"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\x.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="x"></Button>
+                <Button Style="{StaticResource btn_style}"
+            Content="D:\install\doan1\WarmUp\WarmUp\Image\Trang 3\\y.png"
+            Height="70"
+            Width="70"
+            Command="{Binding Onboarding}"
+            CommandParameter="y"></Button>
+            </StackPanel>
+            <Grid Grid.Row="2" Grid.Column="1" Margin="70,20,40,50">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="1.5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Vertical" Grid.Row="0">
+                    <Image Grid.Column="0"
+                           Margin="0, 10, 0, 0"
+                       Height="190"
+                       Width="180"
+                       Source="{Binding ImageLetter}" 
+                       Stretch="Uniform"/>
+                    <Image 
+                        Margin="0, 0, 0, 0"
+                       Grid.Column="0" 
+                       Source="{Binding ImageAnimal}" 
+                       Height="190"
+                       Width="180" 
+                       Stretch="Uniform"/>
+                </StackPanel>
+                <Image Grid.Column="1" 
+                       Margin="5,15,30,5"
+                       
+                       Source="{Binding ImageHandsign}"
+                       Stretch="Uniform"/>
+                        </Grid>
+        </Grid>
+    </Border>
+</UserControl>

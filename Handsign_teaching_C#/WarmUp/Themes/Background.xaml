@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="Border" x:Key="border_style">
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="D:\hcmute\apps\C#\object_detection\object_detection\image\923.jpg" Stretch="Fill"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+</ResourceDictionary>

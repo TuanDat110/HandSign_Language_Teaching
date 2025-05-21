@@ -1,0 +1,19 @@
+﻿<Window x:Class="WarmUp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WarmUp"
+        xmlns:viewmodel="clr-namespace:WarmUp.MVVM.ViewModel"
+        xmlns:view="clr-namespace:WarmUp.MVVM.View"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1100"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <viewmodel:MainViewmodel/>
+    </Window.DataContext>
+    <Grid Background="Transparent">
+        <ContentControl Grid.Row="1" Content="{Binding Currentview}"/>
+    </Grid>
+</Window>

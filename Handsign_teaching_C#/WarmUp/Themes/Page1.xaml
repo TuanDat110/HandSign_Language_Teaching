@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="Border" x:Key="Page1_Style1">
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="D:\install\doan1\WarmUp\WarmUp\Image\Artboard 1.png" Stretch="Fill"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
+    

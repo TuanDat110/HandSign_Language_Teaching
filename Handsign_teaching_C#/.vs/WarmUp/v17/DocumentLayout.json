@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\install\\doan1\\WarmUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\cameraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\cameraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\cameraviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\cameraviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\baseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\baseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\answer_p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\answer_p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\alphabet_page3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\alphabet_page3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\page4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\page4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\page3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\page3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\viewmodel\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\viewmodel\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GIGABYTE\\AppData\\Local\\Temp\\.vsdbgsrc\\dbcac9efe01d0df906da717358e290033fb7eac3edc7ad7ef8366a1f191de1bd\\WriteableBitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\mvvm\\view\\mainview2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\mvvm\\view\\mainview2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\button_background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\button_background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|d:\\install\\doan1\\warmup\\warmup\\themes\\borderframe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10D1055-79D3-4033-A4CC-1AD0AEFC05A8}|WarmUp\\WarmUp.csproj|solutionrelative:warmup\\themes\\borderframe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page4.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\Page4.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page4.xaml",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\Page4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T07:52:02.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page3.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Page3.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\Page3.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Page3.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\Page3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewmodel.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\MainViewmodel.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\MainViewmodel.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\MainViewmodel.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\MainViewmodel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraViewModel.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\CameraViewModel.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\CameraViewModel.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\CameraViewModel.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\CameraViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:25.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Answer_P4.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Answer_P4.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\Answer_P4.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Answer_P4.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\Answer_P4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:31:57.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page4.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Page4.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\Page4.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Page4.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\Page4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:17.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MainWindow.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MainWindow.xaml",
+              "RelativeToolTip": "WarmUp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:08:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraViewModel1.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\CameraViewModel1.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\CameraViewModel1.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\CameraViewModel1.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\CameraViewModel1.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseView.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\BaseView.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\BaseView.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\BaseView.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\BaseView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:17:16.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WarmUp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WarmUp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:17:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Class1.cs",
+              "RelativeDocumentMoniker": "WarmUp\\Class1.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Class1.cs",
+              "RelativeToolTip": "WarmUp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:17:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alphabet_Page3.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Alphabet_Page3.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\Alphabet_Page3.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\Alphabet_Page3.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\Alphabet_Page3.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwD0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:16:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GiaoDienChinh.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\GiaoDienChinh.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\ViewModel\\GiaoDienChinh.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\ViewModel\\GiaoDienChinh.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\ViewModel\\GiaoDienChinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:14:10.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\App.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\App.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\App.xaml",
+              "RelativeToolTip": "WarmUp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:07:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WriteableBitmap.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\AppData\\Local\\Temp\\.vsdbgsrc\\dbcac9efe01d0df906da717358e290033fb7eac3edc7ad7ef8366a1f191de1bd\\WriteableBitmap.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\AppData\\Local\\Temp\\.vsdbgsrc\\dbcac9efe01d0df906da717358e290033fb7eac3edc7ad7ef8366a1f191de1bd\\WriteableBitmap.cs [Read Only]",
+              "ViewState": "AgIAAMQCAAAAAAAAAAAAAIQAAAALAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:11:52.07Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page3.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Page3.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page3.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Page3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:07:21.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page4.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Page4.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page4.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Page4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:07:27.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainView2.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\MainView2.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\MainView2.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\MainView2.xaml",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\MainView2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:27:08.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page2.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\Page2.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page2.xaml",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:27:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page3.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\Page3.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page3.xaml",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\Page3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:29:54.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\Page3.xaml.cs",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\Page3.xaml.cs",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\Page3.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:02:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\MainView.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\MVVM\\View\\MainView.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\MVVM\\View\\MainView.xaml",
+              "RelativeToolTip": "WarmUp\\MVVM\\View\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:26:54.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Background.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Background.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Background.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Background.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Background.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:05:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page2.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Page2.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page2.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:07:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page1.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Page1.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Page1.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:06:49.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Image.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Image.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Image.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Image.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Image.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:06:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Button_Background.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Button_Background.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Button_Background.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Button_Background.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Button_Background.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:06:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Button.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\Button.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\Button.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T15:06:34.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BorderFrame.xaml",
+              "DocumentMoniker": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\BorderFrame.xaml",
+              "RelativeDocumentMoniker": "WarmUp\\Themes\\BorderFrame.xaml",
+              "ToolTip": "D:\\install\\doan1\\WarmUp\\WarmUp\\Themes\\BorderFrame.xaml",
+              "RelativeToolTip": "WarmUp\\Themes\\BorderFrame.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:27:58.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

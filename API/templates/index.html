@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Live Streaming</title>
+  </head>
+  <body>
+    <img id="frame" src="" />
+    <script>
+      //let ws = new WebSocket("ws://localhost:8000/ws");
+      //var ws = new WebSocket('ws://' + window.location.hostname + ':8000/ws')
+      var ws = new WebSocket(
+        "ws://" + document.domain + ":" + location.port + "/ws"
+      );
+      let image = document.getElementById("frame");
+      image.onload = function () {
+        URL.revokeObjectURL(this.src); // release the blob URL once the image is loaded
+      };
+      ws.onmessage = function (event) {
+        let blob = new Blob([event.data], { type: "image/jpeg" }); // Chuyển đổi dữ liệu nhận thành Blob
+        image.src = URL.createObjectURL(blob);
+      };
+    </script>
+  </body>
+</html>
